@@ -4,7 +4,7 @@
 	"title": "first",
 	"tags": [],
 	"description": "",
-	"content": "111111\n second page  111111\n"
+	"content": "111111aaaa\n second page  111111aaaa\n"
 },
 {
 	"uri": "http://io/pages3/",
@@ -25,7 +25,7 @@
 	"title": "second",
 	"tags": [],
 	"description": "",
-	"content": "2222222\n first page  2222222\n"
+	"content": "2222222bbbb\n first page  2222222bbb\n"
 },
 {
 	"uri": "http://io/pages3/categories/",
